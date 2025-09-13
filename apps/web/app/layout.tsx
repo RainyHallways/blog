@@ -17,8 +17,8 @@ const geistMono = localFont({
 
 export const metadata = createMetadata({
   title: {
-    template: "%s | rjv.im",
-    default: "rjv.im",
+    template: "%s | blog.rnhws",
+    default: "blog.rnhws",
   },
   description: description,
   metadataBase: baseUrl,
