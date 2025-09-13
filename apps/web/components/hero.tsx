@@ -87,7 +87,7 @@ export default function Hero() {
           <div className="flex flex-row gap-3">
             <Link href="https://github.com/RainyHallways" target="_blank">
               <Button size="lg" className="gap-4 cursor-grab" variant="outline">
-                Let's Connect <SocialIcons.Hub className="w-4 h-4" />
+                Let's Connect <SocialIcons.gitHub className="w-4 h-4" />
               </Button>
             </Link>
             <Link href="blog" target="_blank">
