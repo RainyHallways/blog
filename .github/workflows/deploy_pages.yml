@@ -74,7 +74,7 @@ jobs:
       - name: Build with Next.js
         run: pnpm web:build
         env:
-          NEXT_PUBLIC_SITE_URL: rjv.im
+          NEXT_PUBLIC_SITE_URL: blog.rnhws.top
 
       - uses: JamesIves/github-pages-deploy-action@v4
         with:
